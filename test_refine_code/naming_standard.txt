@@ -1,0 +1,17 @@
+# 变量命名规范文档
+
+## 通用规则
+- 所有变量和函数名使用蛇形命名法 (snake_case)。
+
+## 特定数学变量
+- 自变量 (independent variable): x
+- 因变量 (dependent variable) 或函数输出: y
+- 数据点数量: num_points
+- 高斯函数中的均值或中心: mu
+- 高斯函数中的标准差: sigma
+- 高斯函数中的振幅: amplitude
+- 噪声: noise
+
+## 绘图变量
+- X轴数据: x_data
+- Y轴数据: y_data
